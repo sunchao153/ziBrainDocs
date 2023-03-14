@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/ziBrainDocs/',
   title: 'ziBrain文档',
   description: '',
   themeConfig: {
