@@ -1,6 +1,6 @@
 ---
 home: true
-# heroImage: /hero.png
+heroImage: /assets/img/zb-logo.png
 heroText: ziBrain
 tagline: ' -- '
 actionText: 快速上手 →
