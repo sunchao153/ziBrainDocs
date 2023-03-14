@@ -11,7 +11,7 @@ module.exports = {
         { text: 'Chinese', link: '/language/chinese/' },
         { text: 'Japanese', link: '/language/japanese/' }
       ]},
-      { text: 'ziBrian工业互联网', link: 'http://10.251.181.50/html/zibrain/preview?code=1612dd&companyId=1509001722029281280#/login' },
+      { text: 'ziBrian工业互联网', link: 'http://10.251.181.51/html/zibrain/#/login' },
     ],
     sidebar: [
       {
